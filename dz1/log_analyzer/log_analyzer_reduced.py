@@ -10,6 +10,7 @@ from datetime import datetime
 from collections import namedtuple
 from string import Template
 
+
 LOG_RECORD_RE = re.compile(
     '^'
     '\S+ '  # remote_addr
