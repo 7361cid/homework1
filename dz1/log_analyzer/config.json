@@ -1,0 +1,7 @@
+{
+  "MAX_REPORT_SIZE": 5,
+  "REPORTS_DIR": "C:\\Users\\Ilia\\Desktop\\курсы\\homework1\\dz1\\log_analyzer\\REPORTS",
+  "LOG_DIR": "C:\\Users\\Ilia\\Desktop\\курсы\\homework1\\dz1\\log_analyzer\\LOGS",
+  "LOGS_DIR": "C:\\Users\\Ilia\\Desktop\\курсы\\homework1\\dz1\\log_analyzer\\NGINX_LOGS",
+  "LOG_FILE": "C:\\Users\\Ilia\\Desktop\\курсы\\homework1\\dz1\\log_analyzer\\LOGS\\log.log"
+}
