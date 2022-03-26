@@ -23,4 +23,4 @@ jobs:
       with:
         python-version: "3.8"
     - name: Test with unit tests
-      run: ls; python log_analyzer/test.py
+      run: python dz1/log_analyzer/test.py
