@@ -17,4 +17,4 @@ jobs:
         with:
           python-version: 3.6
       - name: Run tests with pytest
-        run: pytest
+        run: python test.py
