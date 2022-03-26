@@ -25,4 +25,4 @@ jobs:
     - name: Check files
       run: ls
     - name: Test with unit tests
-      run: python test.py
+      run: python log_analyzer/test.py
