@@ -23,5 +23,6 @@ jobs:
       with:
         python-version: "3.8"
     - name: Test with unit tests
-      run: |
+      run: 
+        ls
         python test.py
